@@ -4,7 +4,7 @@
 
 ## 基础任务
 
-[Vanguard视觉组招新基础任务.md](.\Vanguard视觉组招新基础任务.md)
+[Vanguard视觉组招新基础任务.md](./Vanguard视觉组招新基础任务.md)
 
 下列任务请使用C++或Python实现，优先选择C++
 
